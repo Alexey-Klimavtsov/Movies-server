@@ -38,3 +38,4 @@ lerna-debug.log*
 .prettierrc
 .env
 mail.constants.ts
+/dump
